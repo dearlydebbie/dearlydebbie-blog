@@ -7,7 +7,6 @@ const Featured = () => {
     <div className={styles.container}>
       <h1 className={styles.title}>
         <b>Hey, Tech Explorer!</b> Welcome to DearlyDebbie's Digital Playground.
-        🚀
       </h1>
       <div className={styles.post}>
         <div className={styles.imgContainer}>
@@ -27,7 +26,7 @@ const Featured = () => {
             Debbie, your friendly guide on this journey, and I can't wait to
             share my tech stories and creative ideas with you. So, grab your
             virtual passport, fasten your seatbelts, and let's embark on this
-            thrilling adventure through the <b>Digital Wonderland</b>! 🌐💡
+            thrilling adventure through the <b>Digital Wonderland</b>!
           </p>
           <button className={styles.button}>Explore</button>
         </div>
