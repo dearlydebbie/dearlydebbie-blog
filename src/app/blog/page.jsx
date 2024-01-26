@@ -1,5 +1,5 @@
 import CardList from "@/Components/CardList/CardList"
-import styles from "./BlogPage.module.css"
+import styles from "./blogPage.module.css"
 import Menu from "@/Components/Menu/Menu"
 
 const BlogPage = () => {
